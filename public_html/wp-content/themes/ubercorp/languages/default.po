@@ -1,0 +1,2305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ubercorp 1.0\n"
+"POT-Creation-Date: 2013-09-16 02:52+0530\n"
+"PO-Revision-Date: 2013-09-16 02:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: Brand Exponents <support@brandexponents.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "404 PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ajax-handler.php:20
+msgid "All fields are required"
+msgstr ""
+
+#: ajax-handler.php:24
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: ajax-handler.php:33
+msgid "Your message was sent sucessfully"
+msgstr ""
+
+#: archive.php:30 blog.php:33 category.php:30 index.php:24 search.php:33
+#: tag.php:30
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: be-themes-metabox.php:38
+msgid "Client Name"
+msgstr ""
+
+#: be-themes-metabox.php:50
+msgid "Project Date"
+msgstr ""
+
+#: be-themes-metabox.php:62
+msgid "Visit Site url"
+msgstr ""
+
+#: be-themes-metabox.php:72
+msgid "Visit Site Link Text"
+msgstr ""
+
+#: be-themes-metabox.php:83
+msgid "Link Thumbnail To"
+msgstr ""
+
+#: be-themes-metabox.php:98
+msgid "Thumbnail Expands to "
+msgstr ""
+
+#: be-themes-metabox.php:131
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: be-themes-metabox.php:139
+msgid "Left Sidebar"
+msgstr ""
+
+#: be-themes-metabox.php:146
+msgid "Right Sidebar"
+msgstr ""
+
+#: be-themes-metabox.php:153 be-themes-options.php:1168
+msgid "Blog Style"
+msgstr ""
+
+#: be-themes-metabox.php:183
+msgid "Show Page Title Bar ?"
+msgstr ""
+
+#: be-themes-metabox.php:191
+msgid "Show Breadcrumbs ?"
+msgstr ""
+
+#: be-themes-metabox.php:199
+msgid "Show Bottom Widgets"
+msgstr ""
+
+#: be-themes-metabox.php:207
+msgid "Show Top Header Bar"
+msgstr ""
+
+#: be-themes-metabox.php:215
+msgid "Show Footer"
+msgstr ""
+
+#: be-themes-metabox.php:246
+msgid "Youtube / Vimeo Video Url"
+msgstr ""
+
+#: be-themes-metabox.php:258
+msgid "Audio Embed Code Or Link to an Audio File"
+msgstr ""
+
+#: be-themes-metabox.php:270
+msgid "Quote Title"
+msgstr ""
+
+#: be-themes-metabox.php:282
+msgid "Quote Author"
+msgstr ""
+
+#: be-themes-metabox.php:294
+msgid "Gallery Post Format Images"
+msgstr ""
+
+#: be-themes-options.php:26
+msgid "A Section added by hook"
+msgstr ""
+
+#: be-themes-options.php:27
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: be-themes-options.php:72
+msgid ""
+"<p>Welcome to Ubercorp Options Panel. You will find out that its very simple "
+"to do what you want to and yet powerful enough to do whatever you want to "
+"with our wide variety of options. </p>"
+msgstr ""
+
+#: be-themes-options.php:82 options/options.php:74
+msgid "Ubercorp Options"
+msgstr ""
+
+#: be-themes-options.php:85
+msgid "Ubercorp Theme Options"
+msgstr ""
+
+#: be-themes-options.php:101
+msgid "Theme Information 1"
+msgstr ""
+
+#: be-themes-options.php:102 be-themes-options.php:107
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: be-themes-options.php:106
+msgid "Theme Information 2"
+msgstr ""
+
+#: be-themes-options.php:111
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: be-themes-options.php:153
+msgid "General"
+msgstr ""
+
+#: be-themes-options.php:154 be-themes-options.php:358
+#: be-themes-options.php:1051 be-themes-options.php:1088
+#: be-themes-options.php:1163
+msgid "<p class=\"description\"></p>"
+msgstr ""
+
+#: be-themes-options.php:159
+msgid "Status of the Website"
+msgstr ""
+
+#: be-themes-options.php:161
+msgid ""
+"It is important to set this to \"deploy\" after you have finished playing "
+"with options panel and ready to launch the website. It will help us cache "
+"the css and optimize performance of the website"
+msgstr ""
+
+#: be-themes-options.php:169
+msgid "Your Logo"
+msgstr ""
+
+#: be-themes-options.php:171
+msgid "Please upload your logo here."
+msgstr ""
+
+#: be-themes-options.php:176
+msgid "Your Favicon"
+msgstr ""
+
+#: be-themes-options.php:178
+msgid "Please upload a favicon here."
+msgstr ""
+
+#: be-themes-options.php:183
+msgid "Copyrights Text"
+msgstr ""
+
+#: be-themes-options.php:185
+msgid ""
+"Please Enter the text along with any links that need to go in the footer "
+"copyright area"
+msgstr ""
+
+#: be-themes-options.php:193
+msgid "Google Analytics Code"
+msgstr ""
+
+#: be-themes-options.php:195
+msgid "Please enter your Google analytics tracking ID here."
+msgstr ""
+
+#: be-themes-options.php:202
+msgid "Custom CSS"
+msgstr ""
+
+#: be-themes-options.php:204
+msgid "Please add your custom css here."
+msgstr ""
+
+#: be-themes-options.php:211
+msgid "Custom Javascript"
+msgstr ""
+
+#: be-themes-options.php:213
+msgid "Please add your custom js code here"
+msgstr ""
+
+#: be-themes-options.php:221
+msgid "Background"
+msgstr ""
+
+#: be-themes-options.php:222
+msgid ""
+"<p class=\"description\">Control the Appearance of the site from this tab by "
+"uploading your own patterns and images or by choosing from one of the "
+"plethora of presets available</p>"
+msgstr ""
+
+#: be-themes-options.php:228
+msgid "Body"
+msgstr ""
+
+#: be-themes-options.php:246
+msgid "Header Top"
+msgstr ""
+
+#: be-themes-options.php:248
+msgid "Bar at the top of the webpage"
+msgstr ""
+
+#: be-themes-options.php:265
+msgid "Header"
+msgstr ""
+
+#: be-themes-options.php:283 be-themes-options.php:488
+msgid "Page Title"
+msgstr ""
+
+#: be-themes-options.php:301
+msgid "Content Area"
+msgstr ""
+
+#: be-themes-options.php:319
+msgid "Bottom Widget Area"
+msgstr ""
+
+#: be-themes-options.php:337
+msgid "Footer"
+msgstr ""
+
+#: be-themes-options.php:357
+msgid "Typography"
+msgstr ""
+
+#: be-themes-options.php:365
+msgid "Font Preview"
+msgstr ""
+
+#: be-themes-options.php:366
+msgid "Typography Font Preview Section"
+msgstr ""
+
+#: be-themes-options.php:373
+msgid "H1"
+msgstr ""
+
+#: be-themes-options.php:374
+msgid "Heading Tag 1"
+msgstr ""
+
+#: be-themes-options.php:393
+msgid "H2"
+msgstr ""
+
+#: be-themes-options.php:394
+msgid "Heading Tag 2"
+msgstr ""
+
+#: be-themes-options.php:412
+msgid "H3"
+msgstr ""
+
+#: be-themes-options.php:413
+msgid "Heading Tag 3"
+msgstr ""
+
+#: be-themes-options.php:431
+msgid "H4"
+msgstr ""
+
+#: be-themes-options.php:432
+msgid "Heading Tag 4"
+msgstr ""
+
+#: be-themes-options.php:450
+msgid "H5"
+msgstr ""
+
+#: be-themes-options.php:451
+msgid "Heading Tag 5"
+msgstr ""
+
+#: be-themes-options.php:469
+msgid "H6"
+msgstr ""
+
+#: be-themes-options.php:470
+msgid "Heading Tag 6"
+msgstr ""
+
+#: be-themes-options.php:507
+msgid "Body Text"
+msgstr ""
+
+#: be-themes-options.php:525
+msgid "Sidebar Widget Text"
+msgstr ""
+
+#: be-themes-options.php:543
+msgid "Bottom Widget Text"
+msgstr ""
+
+#: be-themes-options.php:561
+msgid "Footer Text"
+msgstr ""
+
+#: be-themes-options.php:579
+msgid "Navigation Menu"
+msgstr ""
+
+#: be-themes-options.php:596
+msgid "Color of Blog Post Title"
+msgstr ""
+
+#: be-themes-options.php:604
+msgid "Color of Text in Top Bar"
+msgstr ""
+
+#: be-themes-options.php:612
+msgid "Color of Widget Title in Bottom Widget area"
+msgstr ""
+
+#: be-themes-options.php:623 be-themes-options.php:630
+msgid "Layout"
+msgstr ""
+
+#: be-themes-options.php:624 be-themes-options.php:770
+msgid "<p class=\"description\">"
+msgstr ""
+
+#: be-themes-options.php:643
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: be-themes-options.php:656
+msgid "Menu Style"
+msgstr ""
+
+#: be-themes-options.php:666
+msgid "Top Bar Left Widget"
+msgstr ""
+
+#: be-themes-options.php:676
+msgid "Top Bar Right Widget"
+msgstr ""
+
+#: be-themes-options.php:685
+msgid "Enable Header Top in Mobile Dimensions ?"
+msgstr ""
+
+#: be-themes-options.php:693
+msgid "Show Search Widget in Page Title Area ?"
+msgstr ""
+
+#: be-themes-options.php:701
+msgid "Bottom Margin of Top Bar"
+msgstr ""
+
+#: be-themes-options.php:710
+msgid "Logo Top Margin"
+msgstr ""
+
+#: be-themes-options.php:718
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: be-themes-options.php:726
+msgid "Page Title Top Margin"
+msgstr ""
+
+#: be-themes-options.php:734
+msgid "Page Title Bottom Margin"
+msgstr ""
+
+#: be-themes-options.php:742
+msgid "Content Area Top Margin"
+msgstr ""
+
+#: be-themes-options.php:750
+msgid "Show Comments Section in Pages ?"
+msgstr ""
+
+#: be-themes-options.php:758
+msgid "Custom Sidebars"
+msgstr ""
+
+#: be-themes-options.php:769
+msgid "Colors"
+msgstr ""
+
+#: be-themes-options.php:776
+msgid "Color Scheme"
+msgstr ""
+
+#: be-themes-options.php:785
+msgid "Text Color on a background which has the above Color Scheme"
+msgstr ""
+
+#: be-themes-options.php:793
+msgid "Color of Separator"
+msgstr ""
+
+#: be-themes-options.php:801
+msgid "Color of Main Menu Border"
+msgstr ""
+
+#: be-themes-options.php:809
+msgid "Secondary Background Color"
+msgstr ""
+
+#: be-themes-options.php:811
+msgid ""
+"Background Color of certain shortcode and widget elements such as "
+"Blockquotes, Call To Action Box, Tabs, Accordion, Text boxes etc"
+msgstr ""
+
+#: be-themes-options.php:817
+msgid "Secondary Text Color"
+msgstr ""
+
+#: be-themes-options.php:819
+msgid ""
+"Text Color of certain shortcode and widget elements which have the secondary "
+"background above"
+msgstr ""
+
+#: be-themes-options.php:825
+msgid "Secondary Title Color"
+msgstr ""
+
+#: be-themes-options.php:827
+msgid ""
+"Color of Heading tags on certain shortcode and widget elements which have "
+"the secondary background above"
+msgstr ""
+
+#: be-themes-options.php:833
+msgid "Secondary Border Color"
+msgstr ""
+
+#: be-themes-options.php:834 be-themes-options.php:866
+msgid ""
+"Set to the same color as the secondary background if you do not want a border"
+msgstr ""
+
+#: be-themes-options.php:835
+msgid ""
+"Border Color of certain shortcode and widget elements which have the "
+"secondary background above"
+msgstr ""
+
+#: be-themes-options.php:841
+msgid "Secondary Background Color in Bottom Widget area"
+msgstr ""
+
+#: be-themes-options.php:849
+msgid "Secondary Text Color in Bottom Widget area"
+msgstr ""
+
+#: be-themes-options.php:857
+msgid "Secondary Title Color in Bottom Widget area"
+msgstr ""
+
+#: be-themes-options.php:865
+msgid "Secondary Border Color in Bottom Widget area"
+msgstr ""
+
+#: be-themes-options.php:877
+msgid "Social Media Settings"
+msgstr ""
+
+#: be-themes-options.php:878
+msgid ""
+"<p class=\"description\">Please choose the icons that need to be displayed "
+"using the Social Media Widget. Use this widget to direct your visitors to "
+"follow your social media profiles.</p>"
+msgstr ""
+
+#: be-themes-options.php:884
+msgid "Facebook"
+msgstr ""
+
+#: be-themes-options.php:886
+msgid "Add Facebook Icon"
+msgstr ""
+
+#: be-themes-options.php:893
+msgid "Facebook Icon Url"
+msgstr ""
+
+#: be-themes-options.php:895
+msgid "Please enter your Facebook page/profile url"
+msgstr ""
+
+#: be-themes-options.php:903
+msgid "Twitter"
+msgstr ""
+
+#: be-themes-options.php:905
+msgid "Add Twitter Icon"
+msgstr ""
+
+#: be-themes-options.php:913
+msgid "Twitter Icon Url"
+msgstr ""
+
+#: be-themes-options.php:915
+msgid "Please enter your Twitter page/profile url"
+msgstr ""
+
+#: be-themes-options.php:924
+msgid "Google Plus"
+msgstr ""
+
+#: be-themes-options.php:926
+msgid "Add Google Plus Icon"
+msgstr ""
+
+#: be-themes-options.php:933
+msgid "Google Plus Icon Url"
+msgstr ""
+
+#: be-themes-options.php:935
+msgid "Please enter your Google plus page/profile url"
+msgstr ""
+
+#: be-themes-options.php:943
+msgid "RSS"
+msgstr ""
+
+#: be-themes-options.php:945
+msgid "Add RSS Icon"
+msgstr ""
+
+#: be-themes-options.php:951
+msgid "RSS Icon Url"
+msgstr ""
+
+#: be-themes-options.php:961
+msgid "Dribbble"
+msgstr ""
+
+#: be-themes-options.php:962
+msgid "Please enter your RSS feed url"
+msgstr ""
+
+#: be-themes-options.php:963
+msgid "Add Dribbble Icon"
+msgstr ""
+
+#: be-themes-options.php:969
+msgid "Dribbble Icon Url"
+msgstr ""
+
+#: be-themes-options.php:971
+msgid "Please enter your Dribbble profile url"
+msgstr ""
+
+#: be-themes-options.php:978
+msgid "Pinterest"
+msgstr ""
+
+#: be-themes-options.php:979
+msgid "Please enter your Pinterest url"
+msgstr ""
+
+#: be-themes-options.php:980
+msgid "Add Pinterest Icon"
+msgstr ""
+
+#: be-themes-options.php:987
+msgid "Pinterest Icon Url"
+msgstr ""
+
+#: be-themes-options.php:989
+msgid "Please enter your Pinterest profile url"
+msgstr ""
+
+#: be-themes-options.php:996
+msgid "Vimeo"
+msgstr ""
+
+#: be-themes-options.php:997 be-themes-options.php:1006
+msgid "Please enter your Vimeo url"
+msgstr ""
+
+#: be-themes-options.php:998
+msgid "Add Vimeo Icon"
+msgstr ""
+
+#: be-themes-options.php:1004
+msgid "Vimeo Icon Url"
+msgstr ""
+
+#: be-themes-options.php:1013
+msgid "Flickr"
+msgstr ""
+
+#: be-themes-options.php:1014
+msgid "Please enter your Flickr url"
+msgstr ""
+
+#: be-themes-options.php:1015
+msgid "Add Flickr Icon"
+msgstr ""
+
+#: be-themes-options.php:1021
+msgid "Flickr Icon Url"
+msgstr ""
+
+#: be-themes-options.php:1023
+msgid "Please enter your Flickr profile url"
+msgstr ""
+
+#: be-themes-options.php:1030
+msgid "Skype"
+msgstr ""
+
+#: be-themes-options.php:1031
+msgid "Please enter your Skype url"
+msgstr ""
+
+#: be-themes-options.php:1032
+msgid "Add Skype Icon"
+msgstr ""
+
+#: be-themes-options.php:1038
+msgid "Skype Icon Url"
+msgstr ""
+
+#: be-themes-options.php:1040
+msgid "Please enter your Skype profile url"
+msgstr ""
+
+#: be-themes-options.php:1050
+msgid "Contact Settings"
+msgstr ""
+
+#: be-themes-options.php:1057
+msgid "Contact Address"
+msgstr ""
+
+#: be-themes-options.php:1059
+msgid ""
+"Please Enter your address to be used in the contact page as well as the "
+"contact widget"
+msgstr ""
+
+#: be-themes-options.php:1067
+msgid "Contact Phone Numbers"
+msgstr ""
+
+#: be-themes-options.php:1069
+msgid "Please enter your phone number"
+msgstr ""
+
+#: be-themes-options.php:1076
+msgid "Contact Email Id"
+msgstr ""
+
+#: be-themes-options.php:1078
+msgid "Please enter your email address"
+msgstr ""
+
+#: be-themes-options.php:1087
+msgid "Portfolio Settings"
+msgstr ""
+
+#: be-themes-options.php:1094
+msgid "Height of thumbnails of a One Column Portfolio"
+msgstr ""
+
+#: be-themes-options.php:1095 be-themes-options.php:1105
+#: be-themes-options.php:1115
+msgid "Only numbers, no text"
+msgstr ""
+
+#: be-themes-options.php:1096 be-themes-options.php:1106
+msgid ""
+"Please enter height in pixels considering max width in any of the screen "
+"resolution is 460px  Defaults to 260px"
+msgstr ""
+
+#: be-themes-options.php:1104
+msgid "Height of thumbnails of a Two Column Portfolio"
+msgstr ""
+
+#: be-themes-options.php:1114
+msgid "Height of thumbnails of a Three Column Portfolio"
+msgstr ""
+
+#: be-themes-options.php:1116
+msgid ""
+"Please enter height in pixels considering max width in any of the screen "
+"resolution is 300px  Defaults to 220px"
+msgstr ""
+
+#: be-themes-options.php:1124
+msgid "Height of thumbnails of a Four Column Portfolio"
+msgstr ""
+
+#: be-themes-options.php:1126
+msgid ""
+"Please enter height in pixels considering max width in any of the screen "
+"resolution is 300px  Defaults to 272px"
+msgstr ""
+
+#: be-themes-options.php:1135
+msgid "Show Related Items ?"
+msgstr ""
+
+#: be-themes-options.php:1143
+msgid "Number of Related Items"
+msgstr ""
+
+#: be-themes-options.php:1152
+msgid "Related Items Title"
+msgstr ""
+
+#: be-themes-options.php:1162
+msgid "Blog Settings"
+msgstr ""
+
+#: be-themes-options.php:1177
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: be-themes-options.php:1186
+msgid "Get Blog Snippet from ?"
+msgstr ""
+
+#: be-themes-options.php:1219
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: be-themes-options.php:1220
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: be-themes-options.php:1221
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: be-themes-options.php:1223
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: be-themes-options.php:1230
+msgid "Theme Information"
+msgstr ""
+
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:27 comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:28 comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:29 comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: contact.php:29
+msgid "Name"
+msgstr ""
+
+#: contact.php:32 functions/widgets/contact_widget.php:31
+msgid "Email"
+msgstr ""
+
+#: contact.php:35
+msgid "Subject"
+msgstr ""
+
+#: contact.php:39
+msgid "Message"
+msgstr ""
+
+#: contact.php:42
+msgid "Submit"
+msgstr ""
+
+#: loop.php:46
+msgid "Continue Reading ->"
+msgstr ""
+
+#: loop.php:55
+msgid "Next >"
+msgstr ""
+
+#: loop.php:56
+msgid "< Prev"
+msgstr ""
+
+#: loop.php:66 single-portfolio.php:22
+msgid "Previous"
+msgstr ""
+
+#: loop.php:67 single-portfolio.php:23 functions/helpers.php:52
+#: functions/helpers.php:127
+msgid "Next"
+msgstr ""
+
+#: page-title.php:3
+msgid "Category: "
+msgstr ""
+
+#: page-title.php:6
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: page-title.php:8
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: page-title.php:10
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: page-title.php:12 functions/helpers.php:606
+msgid "Blog Archives"
+msgstr ""
+
+#: page-title.php:15
+msgid "Articles Tagged with: "
+msgstr ""
+
+#: page-title.php:17
+msgid "Search Results for: "
+msgstr ""
+
+#: page-title.php:19 page-title.php:21
+msgid "Blog"
+msgstr ""
+
+#: post-details.php:4 functions/shortcodes.php:1486
+msgid " comments"
+msgstr ""
+
+#: post-details.php:9
+msgid "Read More"
+msgstr ""
+
+#: search.php:36
+msgid "Sorry, Please enter a search query"
+msgstr ""
+
+#: be-page-builder/be-page-builder.php:552
+msgid "Page Builder"
+msgstr ""
+
+#: be-page-builder/be-page-builder.php:574
+msgid ""
+"Add Rows, organize content into column blocks and style the page using a "
+"myraid collection of shortcodes"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:323
+msgid "Title with Icon"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:329 be-page-builder/be-pb-options.php:410
+#: be-page-builder/be-pb-options.php:941
+#: be-page-builder/be-pb-options.php:1432
+msgid "Style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:335 be-page-builder/be-pb-options.php:703
+#: be-page-builder/be-pb-options.php:1015
+#: be-page-builder/be-pb-options.php:1420
+msgid "Icon"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:341 be-page-builder/be-pb-options.php:709
+#: be-page-builder/be-pb-options.php:1021
+msgid "Circled ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:346 be-page-builder/be-pb-options.php:714
+#: be-page-builder/be-pb-options.php:1026
+msgid "Background of Icon if circled"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:351 be-page-builder/be-pb-options.php:719
+#: be-page-builder/be-pb-options.php:1031
+#: be-page-builder/be-pb-options.php:1438
+msgid "Icon Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:356
+msgid "Upload Custom Icon as Image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:362 be-page-builder/be-pb-options.php:488
+#: be-page-builder/be-pb-options.php:775 be-page-builder/be-pb-options.php:846
+#: be-page-builder/be-pb-options.php:1100
+#: be-page-builder/be-pb-options.php:1324
+#: functions/widgets/contact_widget.php:52
+#: functions/widgets/newsletter_widget.php:55
+#: functions/widgets/social_media_widget.php:36
+msgid "Title"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:367 be-page-builder/be-pb-options.php:494
+#: be-page-builder/be-pb-options.php:780 be-page-builder/be-pb-options.php:857
+#: be-page-builder/be-pb-options.php:1329
+msgid "Heading tag to use for Title"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:373
+#: be-page-builder/be-pb-options.php:1036
+msgid "Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:382
+msgid "Portfolio"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:387
+msgid "Number of Columns"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:393
+msgid "Filterable Portfolio ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:399
+msgid "Filter to use ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:405
+msgid "Portfolio Categories"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:416
+msgid "Overlay Color - Works only with overlay_title style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:420
+msgid "Paginate Portfolio ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:426
+msgid "Number of Items per page"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:434
+msgid "Text Block"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:440
+msgid "Text Block Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:449
+msgid "Premium Sliders"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:454
+msgid "Slider Shortcode"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:463
+msgid "Divider"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:469 be-page-builder/be-pb-options.php:500
+msgid "Choose a divider style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:475 be-page-builder/be-pb-options.php:512
+msgid "Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:482
+msgid "Special Title / Heading"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:506
+msgid "Divider Position"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:519
+msgid "Blockquote"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:526
+msgid "Choose a blockquote style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:532
+msgid "Author's Name"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:537
+msgid "Author's Company"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:542
+msgid "Author's picture"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:547
+msgid "Blockquote Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:556
+msgid "Video"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:561
+msgid "Choose a Video style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:567
+msgid "Enter the video url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:575
+msgid "Notifications"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:581
+msgid "Type of Notification"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:587
+msgid "Notification Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:596
+msgid "Dropcaps"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:602
+msgid "Letter to be Dropcapped"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:607
+msgid "Icon to be Dropcapped  - prioritized over letter "
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:613
+msgid "Dropcap Style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:619
+msgid "Dropcap Size"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:625
+msgid "Dropcap Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:630
+msgid "Dropcap Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:640
+msgid "Buttons"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:646 be-page-builder/be-pb-options.php:748
+#: be-page-builder/be-pb-options.php:869
+#: be-page-builder/be-pb-options.php:1350
+msgid "Button Text"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:651
+msgid "Button Size"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:657
+msgid "Gradient ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:662
+msgid "Rounded Corners ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:667
+msgid "Button Icon"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:673
+msgid "Default background Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:678
+msgid "Hover Background Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:683
+msgid "Button Links to"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:691
+msgid "Services"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:697 be-page-builder/be-pb-options.php:786
+#: be-page-builder/be-pb-options.php:851
+#: functions/widgets/newsletter_widget.php:56
+msgid "Description"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:724
+msgid "Upload image - Has priority over icon"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:729
+msgid "Background Color of the box"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:733
+#: be-page-builder/be-pb-options.php:1276
+msgid "Border Size (only numbers)"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:738
+msgid "Border Color of box"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:742
+msgid "Choose a Services style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:753
+msgid "Button HyperLink"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:758
+msgid "Button Style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:769
+msgid "Team"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:791
+msgid "Upload Team Member image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:796
+msgid "Designation"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:801
+msgid "Facebook Profile Url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:806
+msgid "Twitter Profile Url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:811
+msgid "Google Plus Url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:816
+msgid "Linked In Profile Url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:821
+msgid "Youtube Profile Url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:826
+msgid "Vimeo Profile Url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:831
+msgid "Dribbble Profile Url"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:840
+msgid "Call to Action Box"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:863
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:871
+#: be-page-builder/be-pb-options.php:1352
+msgid "Click Here"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:874
+#: be-page-builder/be-pb-options.php:1355
+msgid "Url to be linked to the button"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:879
+#: be-page-builder/be-pb-options.php:1360
+msgid "Button Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:884 be-page-builder/be-pb-options.php:994
+#: be-page-builder/be-pb-options.php:1242
+msgid "Background Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:889
+msgid "Title Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:894
+msgid "Background Pattern ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:903
+msgid "Tabs"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:911
+msgid "Tab"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:916
+msgid "Tab Title"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:920
+msgid "Choose an icon"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:925
+msgid "Tab Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:934
+msgid "Accordion"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:949
+msgid "Toggle"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:954
+msgid "Accordion Title"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:958
+msgid "Accordion Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:967
+msgid "Skills Bar"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:975
+msgid "Skill"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:980
+msgid "Skill Name"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:984
+msgid "Skill Score in %"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:989
+msgid "Fill Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1002
+msgid "Custom Lists"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1010
+msgid "Custom List Item"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1047
+msgid "Flex Slider"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1054
+#: be-page-builder/be-pb-options.php:1118
+msgid "Animation style"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1060
+msgid "Auto Slide"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1066
+#: be-page-builder/be-pb-options.php:1124
+msgid "Slide Interval in milli secs if auto slide is enabled"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1073
+msgid "Slide"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1078
+msgid "Choose a slider image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1084
+msgid "Enter Youtube/ Vimeo url if you wish to have video in the slide"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1088
+msgid "Show Title ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1094
+msgid "Show Caption ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1104
+msgid "Caption"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1111
+msgid "Testimonials"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1131
+msgid "Testimonial"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1136
+msgid "Choose a Testimonial Author image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1142
+msgid "Author"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1146
+msgid "Company"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1150
+msgid "Testimonial Content"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1158
+msgid "Portfolio Details"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1164
+msgid "Extra Spacing"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1169
+msgid "Height of blank space (only numbers)"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1177
+msgid "Clients"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1185
+msgid "Client"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1190
+msgid "Choose a Client image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1196
+msgid "Link to Client Website"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1200
+msgid "Open Link in New tab"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1209
+msgid "Recent Projects"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1214
+#: be-page-builder/be-pb-options.php:1228
+msgid "Number of Items"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1223
+#: functions/widgets/recent_post_widget.php:6
+#: functions/widgets/recent_post_widget.php:31
+msgid "Recent Posts"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1237
+msgid "Section Settings"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1247
+msgid "Background Image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1253
+msgid "Background Repeat"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1259
+msgid "Background Attachment"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1265
+msgid "Background Position"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1271
+msgid "Center Scale Image to occupy container"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1281
+msgid "Border Color"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1286
+msgid "Top Padding"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1291
+msgid "Bottom Padding"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1299
+msgid "Row Settings"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1304
+msgid "No Wrap ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1309
+msgid "Zero Bottom Margin ?"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1317
+msgid "Pricing Table"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1335
+msgid "Price"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1340
+msgid "Duration"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1345
+msgid "Currency"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1347
+msgid "$"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1365
+msgid "Highlight Column"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1371
+msgid "Style Options"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1380
+msgid "Pricing Feature"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1385
+msgid "Feature"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1392
+msgid "Google Map"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1397
+#: functions/widgets/contact_widget.php:20
+msgid "Address"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1402
+msgid "Height in px (only numbers)"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1407
+msgid "Zoom value"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1415
+msgid "Font Icons"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1426
+msgid "Size"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1443
+msgid "Background of Icon if circled/ Square"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1448
+msgid "Icon Color during Mouse Over"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1453
+msgid "Background Color of Icon during hover"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1458
+msgid "Icon Link URL"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1467
+msgid "Lightbox Image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1472
+msgid "Choose a thumbnail image"
+msgstr ""
+
+#: be-page-builder/be-pb-options.php:1478
+msgid "Enter the url the image needs to link to (optional)"
+msgstr ""
+
+#: functions/be-tgm-plugins.php:91
+#: functions/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/be-tgm-plugins.php:92
+#: functions/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/be-tgm-plugins.php:93
+#: functions/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/be-tgm-plugins.php:94
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/be-tgm-plugins.php:105
+#: functions/class-tgm-plugin-activation.php:178
+#: functions/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/be-tgm-plugins.php:106
+#: functions/class-tgm-plugin-activation.php:179
+#: functions/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/be-tgm-plugins.php:107
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:517
+#: functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1956
+#: functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/custom-post-types.php:38
+msgid "Sort Portfolio Order"
+msgstr ""
+
+#: functions/custom-post-types.php:39
+msgid ""
+"Drag and Drop to rearrange the order in which the portfolio items need to be "
+"shown"
+msgstr ""
+
+#: functions/helpers.php:39 functions/helpers.php:116
+msgid "First"
+msgstr ""
+
+#: functions/helpers.php:42 functions/helpers.php:119
+msgid "Prev"
+msgstr ""
+
+#: functions/helpers.php:55 functions/helpers.php:130
+msgid "Last"
+msgstr ""
+
+#: functions/helpers.php:264
+msgid "Older posts"
+msgstr ""
+
+#: functions/helpers.php:265
+msgid "Newer posts"
+msgstr ""
+
+#: functions/helpers.php:323
+msgid "Search..."
+msgstr ""
+
+#: functions/helpers.php:364 functions/helpers.php:412
+msgid "Edit"
+msgstr ""
+
+#: functions/helpers.php:379
+msgid "Reply"
+msgstr ""
+
+#: functions/helpers.php:388
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: functions/helpers.php:403
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/helpers.php:600 functions/helpers.php:602
+#: functions/helpers.php:604
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/widget-functions.php:13
+msgid "Default Right Sidebar"
+msgstr ""
+
+#: functions/widget-functions.php:15
+msgid "Widget area of Right Sidebar template pages"
+msgstr ""
+
+#: functions/widget-functions.php:24
+msgid "Default Left Sidebar"
+msgstr ""
+
+#: functions/widget-functions.php:26
+msgid "Header Widget Area"
+msgstr ""
+
+#: functions/widget-functions.php:35
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions/widget-functions.php:37 functions/widget-functions.php:48
+#: functions/widget-functions.php:59 functions/widget-functions.php:70
+msgid "Footer widget area"
+msgstr ""
+
+#: functions/widget-functions.php:46
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions/widget-functions.php:57
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions/widget-functions.php:68
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:75
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:76
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:77
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:78
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:79
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:80
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:81
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:82
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: functions/custom-post-types/PostType.php:57
+msgid "Remove current image"
+msgstr ""
+
+#: functions/custom-post-types/PostType.php:58
+msgid "Remove current file"
+msgstr ""
+
+#: functions/custom-post-types/PostType.php:177
+msgid "Use of a reserved term"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:90
+msgid "Search "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:91
+msgid "All "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:92
+msgid "Parent "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:93
+msgid "Parent :"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:94
+msgid "Edit "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:95
+msgid "Update "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:96
+msgid "Add New "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:97
+msgid "New Name"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:158
+msgid "Date"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:211
+#, php-format
+msgid "Show All %s"
+msgstr ""
+
+#: functions/widgets/contact_widget.php:4
+msgid ""
+"Display Address Information - Kindly enter the details in the contact tab of "
+"the theme options panel"
+msgstr ""
+
+#: functions/widgets/contact_widget.php:5
+msgid "BE Themes - Contact"
+msgstr ""
+
+#: functions/widgets/contact_widget.php:24
+msgid "Phone"
+msgstr ""
+
+#: functions/widgets/newsletter_widget.php:4
+msgid ""
+"Newsletter - Integrate with Mail Chimp or have new subscriber information "
+"emailed to you"
+msgstr ""
+
+#: functions/widgets/newsletter_widget.php:5
+msgid "Newsletter"
+msgstr ""
+
+#: functions/widgets/newsletter_widget.php:24
+msgid "Enter Email Address"
+msgstr ""
+
+#: functions/widgets/newsletter_widget.php:28
+msgid "Send"
+msgstr ""
+
+#: functions/widgets/recent_comment_widget.php:5
+msgid "The most recent comments"
+msgstr ""
+
+#: functions/widgets/recent_comment_widget.php:6
+#: functions/widgets/recent_comment_widget.php:47
+msgid "Recent Comments"
+msgstr ""
+
+#: functions/widgets/recent_comment_widget.php:60
+#, php-format
+msgid "%2$s"
+msgstr ""
+
+#: functions/widgets/recent_comment_widget.php:88
+#: functions/widgets/recent_post_widget.php:90
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets/recent_comment_widget.php:91
+msgid "Number of comments to show:"
+msgstr ""
+
+#: functions/widgets/recent_post_widget.php:5
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: functions/widgets/recent_post_widget.php:93
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/widgets/social_media_widget.php:4
+msgid ""
+"Display Social Media Icons with links to your social profiles - Choose icons "
+"from theme options panel"
+msgstr ""
+
+#: functions/widgets/social_media_widget.php:5
+msgid "Social Media Icons"
+msgstr ""
+
+#: lib/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: lib/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: lib/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: lib/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: lib/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:286
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: lib/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:297
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: meta-box/meta-box.php:82
+msgid "RW_Meta_Box Debug:"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:426
+msgid "+"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:448
+msgid "&#8211;"
+msgstr ""
+
+#: meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:62
+msgid "Order saved"
+msgstr ""
+
+#: meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:68 meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: options/options.php:60 options/options.php:62
+msgid "Options"
+msgstr ""
+
+#: options/options.php:289
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: options/options.php:641
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: options/options.php:643 options/options.php:648
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: options/options.php:649
+msgid "<strong>Settings Reseted!</strong>"
+msgstr ""
+
+#: options/options.php:650
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: options/options.php:651
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:653
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:655
+msgid "<strong><span></span> No Changes Made!</strong>"
+msgstr ""
+
+#: options/options.php:675
+msgid "Import / Export"
+msgstr ""
+
+#: options/options.php:693 options/options.php:773
+msgid "Dev Mode Info"
+msgstr ""
+
+#: options/options.php:709
+msgid "Import / Export Options"
+msgstr ""
+
+#: options/options.php:711
+msgid "Import Options"
+msgstr ""
+
+#: options/options.php:719
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: options/options.php:732
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: options/options.php:742
+msgid "Import"
+msgstr ""
+
+#: options/options.php:742
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: options/options.php:745
+msgid "Export Options"
+msgstr ""
+
+#: options/options.php:747
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: options/options.php:798
+msgid "Reset to Defaults"
+msgstr ""
+
+#: options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+
+#: options/fields/multi_text/field_multi_text.php:39
+#: options/fields/multi_text/field_multi_text.php:46
+#: options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: options/fields/upload/field_upload.php:40
+msgid "Browse"
+msgstr ""
+
+#: options/fields/upload/field_upload.php:41
+msgid "Remove Upload"
+msgstr ""
+
+#: options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
